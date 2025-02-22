@@ -1,0 +1,23 @@
+{
+    "historia": "",
+    "datos_usuario": {
+        "nombre_completo": "Ana Sofía Ramírez Castillo",
+        "telefono": "5578332299",
+        "correo": "ana.sofia@example.com",
+        "domicilio": "Calle Reforma #125, Colonia Centro, CDMX",
+        "persona_autorizada1": "Carlos Jiménez Pérez",
+        "persona_autorizada2": "No aplica",
+        "puesto": "Regidora municipal",
+        "grupo_etnico": "No aplica",
+        "persona_denunciada": "Juan Manuel López Torres",
+        "relacion_denunciada": "Candidato a diputado federal",
+        "fecha_hechos": "10/03/2024",
+        "lugar_hechos": "Oficinas del Partido ABC, CDMX",
+        "narracion1": "Durante una reunión del partido, el denunciado hizo comentarios despectivos hacia mi candidatura, desacreditando mi trabajo y promoviendo desinformación sobre mis propuestas.",
+        "narracion2": "Además, realizó amenazas veladas indicando que si seguía con mi campaña, enfrentaría 'graves consecuencias'. Esto ha generado un ambiente de hostilidad en mi contra y afectado mi participación política en igualdad de condiciones.",
+        "afectacion": "Derecho a la participación política en condiciones de igualdad y libre de violencia.",
+        "medida1": "Que el denunciado se abstenga de realizar comentarios difamatorios en mi contra.",
+        "medida2": "Que se implementen medidas de protección para garantizar mi seguridad.",
+        "medida3": "Que se suspenda la difusión de contenido difamatorio en redes sociales y otros medios."
+    }
+}
