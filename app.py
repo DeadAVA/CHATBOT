@@ -1149,4 +1149,5 @@ if __name__ == "__main__":
         if db is None and not app.debug:  
             db = load_or_create_index()
 
-    app.run(host="0.0.0.0", port=5000, debug=False)
+    port = int(os.environ.get("PORT", 5000))  # Usa el puerto asignado por Render
+    app.run(host="0.0.0.0", port=port, debug=False)
